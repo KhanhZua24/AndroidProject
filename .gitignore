@@ -13,3 +13,4 @@ env.js
 # macOS
 .DS_Store
 src/
+node_modules/
