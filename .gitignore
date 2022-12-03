@@ -18,7 +18,6 @@ constants/
 helpers/
 navigation/
 # screens/
-chat/
 post/
 user/
 screenshots/
