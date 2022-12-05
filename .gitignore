@@ -12,5 +12,13 @@ env.js
 
 # macOS
 .DS_Store
-src/
+src/assets/
+components/
+constants/
+helpers/
+navigation/
+# screens/
+user/
+screenshots/
+store/
 node_modules/
