@@ -18,6 +18,7 @@ app/
 helpers/
 # screens/
 user/
+reducers/
 
 screenshots/
 node_modules/
