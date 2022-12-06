@@ -15,11 +15,10 @@ env.js
 src/assets/
 # components/
 app/
-constants/
 helpers/
 # screens/
 user/
-reducers/
-
+posts.js 
+users.js
 screenshots/
 node_modules/
