@@ -18,7 +18,5 @@ app/
 helpers/
 # screens/
 user/
-posts.js 
-users.js
 screenshots/
 node_modules/
